@@ -9,7 +9,11 @@ Thanks for helping improve this courier tracking guide. This repository contains
 - Improving troubleshooting advice with accurate, general steps
 - Fixing typos, grammar or formatting
 
-Please keep claims accurate. Don't add features the website doesn't have, and don't describe any courier as a partner of Track My Ship.
+Please keep claims accurate and check them against [trackmyship.co](https://trackmyship.co/) before submitting. In particular:
+
+- The site tracks courier tracking numbers (AWB, consignment, waybill, Speed Post) only, not mobile numbers, email addresses, LR numbers or order IDs.
+- There is no public Track My Ship API. Don't add endpoints, code samples or integrations.
+- Don't describe any courier as a partner of Track My Ship, and don't add courier logos.
 
 ## How to contribute
 
